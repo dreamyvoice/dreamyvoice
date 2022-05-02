@@ -8,8 +8,7 @@
 
   
 ✨ *For More Info...* **[WEBSITE]()** | **[BLOG](https://velog.io/@oopo0320)** | **[RESUME](https://www.notion.so/Resume-c8b6b096992a4ad98b43082470e1794f)**
-
-**Codestate** @codestates-seb <sub><sup>웹프론트 FE developer (2022.04 ~ now)</sup></sub>  
+-
 
 ---
 
